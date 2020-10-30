@@ -1,4 +1,4 @@
-/* header css */
+/* navigaton */
 ul {
   list-style-type: none;
   margin: 0;
@@ -26,7 +26,11 @@ li a:hover:not(.active) {
 .active {
   background-color: #4CAF50;
 }
-/* Footer css */
+/* body */
+h1 {
+  text-align: center;
+}
+/* Footer */
 html, body {
   height: 100%;
   margin: 0;
